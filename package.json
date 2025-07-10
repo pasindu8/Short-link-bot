@@ -1,0 +1,16 @@
+{
+  "name": "url-shortener-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for URL shortening",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": "18.x" 
+  }
+}
